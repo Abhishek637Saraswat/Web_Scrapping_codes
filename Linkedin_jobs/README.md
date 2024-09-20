@@ -1,0 +1,1 @@
+This file contains web scrapping codes to extract LinkedIn Jobs.
