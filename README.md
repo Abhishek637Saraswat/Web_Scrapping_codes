@@ -1,1 +1,2 @@
-This file can extract all stack data for one day.
+# Web_Scrapping_codes
+This repo belongs to web scrapping code of different websites for data extractio.

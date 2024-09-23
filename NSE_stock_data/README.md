@@ -1,0 +1,1 @@
+This file can extract all stack data for one day.
