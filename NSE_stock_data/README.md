@@ -1,1 +1,1 @@
-This file can extract all stack data for one day.
+This file can extract all stock data for one day.
